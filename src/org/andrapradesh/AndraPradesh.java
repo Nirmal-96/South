@@ -8,6 +8,9 @@ System.out.println("THREE");
 	public static void main(String[] args) {
 		AndraPradesh p=new AndraPradesh();
 		p.telugu();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 		
 		
 	}
